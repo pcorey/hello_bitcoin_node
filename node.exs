@@ -1,3 +1,6 @@
+# https://github.com/comboy/bitcoin-elixir
+# https://github.com/justinlynn/bitcoin-ex
+
 ['seed.bitcoin.sipa.be',
  'dnsseed.bluematt.me',
  'dnsseed.bitcoin.dashjr.org',
